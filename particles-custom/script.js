@@ -20,7 +20,7 @@ particlesJS('particles-js',
       //シェイプの設定
       "shape": {
         //シェイプ形
-        "type": "polygon", //設定値：circle, edge, triangle, polygon, star, image, 複数指定["circle", "triangle", "image"]
+        "type": "star", //設定値：circle, edge, triangle, polygon, star, image, 複数指定["circle", "triangle", "image"]
 
         //シェイプボーダー設定
         "stroke": {
